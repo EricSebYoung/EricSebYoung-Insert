@@ -1,0 +1,1 @@
+INSERT INTO song (title, artist) VALUES ('Everything You Know Is Wrong', 'Weird Al');
